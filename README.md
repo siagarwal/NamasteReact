@@ -1,2 +1,2 @@
 # NamasteReact
-NamasteReact course
+NamasteReact course. Part 1
